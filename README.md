@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Course-Tree**
 
-- 🌱 I’m currently learning **PERN stack, Tensorflow**
+- 🌱 I’m currently exploring **MERN stack**
 
-- 👯 I’m currently collaborating on **Active-Minds-Website**
+- 👯 I’m currently working on **Active-Minds-Website (student club)**
 
 - 👨‍💻 All of my projects are available at [TBA](TBA)
 
