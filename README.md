@@ -3,23 +3,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krish-bhalala" alt="krish-bhalala" /></a> </p>
 
-- 🔭 I’m currently working on **Course-Tree**
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently exploring **MERN stack**
+- 🌱 I’m currently exploring 
 
-- 👯 I’m currently working on **Active-Minds-Website (student club)**
+- 👯 I’m currently working on 
 
 - 👨‍💻 All of my projects are available at [TBA](TBA)
 
 - 📝 I regularly write articles on [TBA](TBA)
 
-- 💬 Ask me about **Postgres, React, Node, tensorflow, etc.**
+- 💬 Ask me about 
 
 - 📫 How to reach me **krishbhalala@outlook.com**
 
 - 📄 Know about my experiences [TBA](TBA)
 
-- ⚡ Fun fact **I don't like dual monitor setup**
+- ⚡ Fun fact **I don't like dual monitors**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
